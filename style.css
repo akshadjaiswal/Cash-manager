@@ -1,0 +1,26 @@
+
+body{
+    background-color: #94a3b8;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    background-color:#e2e8f0 ;
+    margin: auto;
+    padding: 1rem 1rem 1rem 1rem;
+    border-radius: 2rem;
+
+}
+#check-button{
+    
+    color: rgb(255, 255, 255);
+    padding:3px;
+    background-color: rgb(30 34 72);
+    border: 2rem;
+}
+table{
+    background-color:#7e8e9c;
+    border-radius: 1rem;
+}
+
