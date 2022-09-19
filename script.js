@@ -21,7 +21,7 @@ function CheckAmount()
           
        }
        else{
-           errorMessage("Amount is less than Bill Amount")
+           errorMessage("No money to be returned")
        }
     } 
     else{
